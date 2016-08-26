@@ -1,7 +1,7 @@
 {
   "name": "pnark-log",
   "version": "1.0.0",
-  "description": "",
+  "description": "A plugin for pnark that makes your server's `console.log` output available in the browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
